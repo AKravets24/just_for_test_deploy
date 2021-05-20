@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/just_for_test_deploy/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/just_for_test_deploy/static/js/main.3b56e54f.chunk.js",
+    "main.js.map": "/just_for_test_deploy/static/js/main.3b56e54f.chunk.js.map",
+    "runtime-main.js": "/just_for_test_deploy/static/js/runtime-main.8f8a2593.js",
+    "runtime-main.js.map": "/just_for_test_deploy/static/js/runtime-main.8f8a2593.js.map",
+    "static/js/2.0a403491.chunk.js": "/just_for_test_deploy/static/js/2.0a403491.chunk.js",
+    "static/js/2.0a403491.chunk.js.map": "/just_for_test_deploy/static/js/2.0a403491.chunk.js.map",
+    "static/js/3.04cb7c88.chunk.js": "/just_for_test_deploy/static/js/3.04cb7c88.chunk.js",
+    "static/js/3.04cb7c88.chunk.js.map": "/just_for_test_deploy/static/js/3.04cb7c88.chunk.js.map",
+    "index.html": "/just_for_test_deploy/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/just_for_test_deploy/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.0a403491.chunk.js.LICENSE.txt": "/just_for_test_deploy/static/js/2.0a403491.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/just_for_test_deploy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f8a2593.js",
+    "static/js/2.0a403491.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.3b56e54f.chunk.js"
+  ]
+}
